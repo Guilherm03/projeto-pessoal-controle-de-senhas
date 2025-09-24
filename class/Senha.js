@@ -20,7 +20,7 @@ class Senha {
     }
 
     exibirResumo() {
-        return `Site: ${this.site} Login: ${this.login}`
+        return `Site: ${this.site} Login: ${this.login} | Senha: ********`
     }
 }
 
